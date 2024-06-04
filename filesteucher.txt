@@ -1,0 +1,44 @@
+/your_project_root
+│
+├── /assets
+│   ├── /css
+│   │   └── styles.css
+│   ├── /js
+│   │   └── scripts.js
+│   └── /images
+│       └── logo.png
+│
+├── /config
+│   └── config.php
+│
+├── /includes
+│   ├── db.php
+│   ├── functions.php
+│   └── oauth.php
+│
+
+
+
+├── /public
+│   ├── router.php
+│   ├── index.php
+│   ├── login.php
+│   ├── signup.php
+│   ├── dashboard.php
+│   ├── account_management.php
+│   ├── trends.php
+│   ├── analytics.php
+│   ├── keyword_generator.php
+│   ├── caption_generator.php
+│   └── scheduler.php
+│
+├── /templates
+│   ├── header.php
+│   ├── footer.php
+│   └── navbar.php
+│
+├── /routes
+│   └── web.php
+│
+├── index.php
+└── .htaccess
